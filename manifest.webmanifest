@@ -1,0 +1,12 @@
+{
+  "name": "MNAnimat3D",
+  "short_name": "MNAnimat3D",
+  "description": "Editor de modelagem, rig, cenários e animação 3D para Windows e Android.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#090b16",
+  "theme_color": "#090b16",
+  "icons": [{"src":"./assets/icon.svg","sizes":"any","type":"image/svg+xml","purpose":"any maskable"}]
+}

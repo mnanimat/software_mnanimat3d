@@ -1,0 +1,176 @@
+{
+  "id": "snow",
+  "name": "Snow v4.2",
+  "source": "https://studio.blender.org/characters/snow/v4/",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Snow Rig (CC) Blender Foundation | studio.blender.org",
+  "original_blend": "original/Snow/snow_v4.2.blend",
+  "armature": "RIG-Snow",
+  "mesh_count": 17,
+  "deform_bone_count": 290,
+  "controllers": [
+    {
+      "bone": "DEF-Forearm_1.L",
+      "label": "Forearm  1 · E",
+      "group": "Braços",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Forearm_1.R",
+      "label": "Forearm  1 · D",
+      "group": "Braços",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Shoulder.L",
+      "label": "Shoulder · E",
+      "group": "Braços",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Shoulder.R",
+      "label": "Shoulder · D",
+      "group": "Braços",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-UpperArm_1.L",
+      "label": "UpperArm  1 · E",
+      "group": "Braços",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-UpperArm_1.R",
+      "label": "UpperArm  1 · D",
+      "group": "Braços",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Wrist.L",
+      "label": "Wrist · E",
+      "group": "Braços",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Wrist.R",
+      "label": "Wrist · D",
+      "group": "Braços",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Foot.L",
+      "label": "Foot · E",
+      "group": "Pernas",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Foot.R",
+      "label": "Foot · D",
+      "group": "Pernas",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Knee_1.L",
+      "label": "Knee  1 · E",
+      "group": "Pernas",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Knee_1.R",
+      "label": "Knee  1 · D",
+      "group": "Pernas",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Thigh_1.L",
+      "label": "Thigh  1 · E",
+      "group": "Pernas",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Thigh_1.R",
+      "label": "Thigh  1 · D",
+      "group": "Pernas",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Toes.L",
+      "label": "Toes · E",
+      "group": "Pernas",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Toes.R",
+      "label": "Toes · D",
+      "group": "Pernas",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Eye.L",
+      "label": "Eye · E",
+      "group": "Rosto",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Eye.R",
+      "label": "Eye · D",
+      "group": "Rosto",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Chest",
+      "label": "Chest",
+      "group": "Tronco",
+      "side": null,
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Head",
+      "label": "Head",
+      "group": "Tronco",
+      "side": null,
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Hips",
+      "label": "Hips",
+      "group": "Tronco",
+      "side": null,
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Neck",
+      "label": "Neck",
+      "group": "Tronco",
+      "side": null,
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Spine",
+      "label": "Spine",
+      "group": "Tronco",
+      "side": null,
+      "mode": "rotate"
+    }
+  ],
+  "limitations": "MNAnimat3D exposes direct deform-bone controls. CloudRig IK/FK, constraints, drivers and custom Python UI remain available in the original .blend via Open in Blender."
+}

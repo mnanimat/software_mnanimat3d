@@ -1,0 +1,176 @@
+{
+  "id": "rain",
+  "name": "Rain v3.3",
+  "source": "https://studio.blender.org/characters/rain/v3/",
+  "license": "CC BY 4.0",
+  "license_url": "https://creativecommons.org/licenses/by/4.0/",
+  "attribution": "Rain Rig (CC) Blender Foundation | studio.blender.org",
+  "original_blend": "original/Rain v3.3/rain_v3.2.blend",
+  "armature": "RIG-rain",
+  "mesh_count": 18,
+  "deform_bone_count": 392,
+  "controllers": [
+    {
+      "bone": "DEF-Forearm1.L",
+      "label": "Forearm 1 · E",
+      "group": "Braços",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Forearm1.R",
+      "label": "Forearm 1 · D",
+      "group": "Braços",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Hand.L",
+      "label": "Hand · E",
+      "group": "Braços",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Hand.R",
+      "label": "Hand · D",
+      "group": "Braços",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Upperarm1.L",
+      "label": "Upperarm 1 · E",
+      "group": "Braços",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Upperarm1.R",
+      "label": "Upperarm 1 · D",
+      "group": "Braços",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Foot.L",
+      "label": "Foot · E",
+      "group": "Pernas",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Foot.R",
+      "label": "Foot · D",
+      "group": "Pernas",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Shin1.L",
+      "label": "Shin 1 · E",
+      "group": "Pernas",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Shin1.R",
+      "label": "Shin 1 · D",
+      "group": "Pernas",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Thigh1.L",
+      "label": "Thigh 1 · E",
+      "group": "Pernas",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Thigh1.R",
+      "label": "Thigh 1 · D",
+      "group": "Pernas",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Toe.L",
+      "label": "Toe · E",
+      "group": "Pernas",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Toe.R",
+      "label": "Toe · D",
+      "group": "Pernas",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Eye.L",
+      "label": "Eye · E",
+      "group": "Rosto",
+      "side": "E",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Eye.R",
+      "label": "Eye · D",
+      "group": "Rosto",
+      "side": "D",
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Jaw",
+      "label": "Jaw",
+      "group": "Rosto",
+      "side": null,
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Head",
+      "label": "Head",
+      "group": "Tronco",
+      "side": null,
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Neck",
+      "label": "Neck",
+      "group": "Tronco",
+      "side": null,
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Pelvis",
+      "label": "Pelvis",
+      "group": "Tronco",
+      "side": null,
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Spine1",
+      "label": "Spine 1",
+      "group": "Tronco",
+      "side": null,
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Spine2",
+      "label": "Spine 2",
+      "group": "Tronco",
+      "side": null,
+      "mode": "rotate"
+    },
+    {
+      "bone": "DEF-Spine3",
+      "label": "Spine 3",
+      "group": "Tronco",
+      "side": null,
+      "mode": "rotate"
+    }
+  ],
+  "limitations": "MNAnimat3D exposes direct deform-bone controls. CloudRig IK/FK, constraints, drivers and custom Python UI remain available in the original .blend via Open in Blender."
+}

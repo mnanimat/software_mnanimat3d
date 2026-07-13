@@ -1,0 +1,5 @@
+Snow Rig (CC) Blender Foundation | studio.blender.org
+
+Fonte: https://studio.blender.org/characters/snow/v4/
+Licença: CC BY 4.0 — https://creativecommons.org/licenses/by/4.0/
+Alteração: conversão do .blend original para GLB compatível com o MNAnimat3D, com controles diretos de ossos.
