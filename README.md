@@ -22,6 +22,8 @@ Depois abra `http://localhost:4173/`. O servidor local também permite que os bo
 ## Personagens incluídas
 
 - **Rain 3.3** e **Snow 4.2**, Blender Studio, CC BY 4.0: 23 controles deformadores diretos no editor. Os `.blend` originais preservam CloudRig, IK/FK, constraints, snapping e a interface oficial do Blender.
+ Nota: Os arquivos originais foram modificados e convertidos via IA para integração e portabilidade nos aplicativos Windows e Android."
+
 - **Personagem blocada**, Kenney Blocky Characters 2.0, CC0: sete nós controláveis, 27 animações incluídas e arquivo Blender editável. É uma criação genérica e não usa personagens, texturas, nomes ou marcas de Minecraft/Mojang/Microsoft.
 
 ## Pacote de cenário
